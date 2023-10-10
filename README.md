@@ -17,9 +17,10 @@ My Primary areas of interested are:
 - Familiar with... Solidity | Flutter
 
 #### Technology
-- Backend Tools... Flask | django | REST API
+- Backend... Flask | django | REST API
 - Databases... MySQL | NoSQL | SQLite | Firebase | MongoDB
 - AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | Keras | CLIP | GPT | NLTK
 - Data Science... pandas | bs4 | spark | seaborn
 - DevOps Tools... Git | AWS | GCP | Heroku | Linux
-- Frontend Tools... React.js | Bootstrap
+- Frontend... React.js | Bootstrap
+- Design... XD | Illustrator | Figma | Invision | Balsamiq
