@@ -22,6 +22,6 @@ My Primary areas of interested are:
 - AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | Keras | CLIP | GPT | NLTK
 - Data Science... pandas | bs4 | spark | seaborn
 - DevOps Tools... Git | Firebase | Heroku | Linux
-- Cloud Services...  AWS | GCP
+- Cloud...  AWS | GCP
 - Frontend... React.js | Bootstrap
 - Design... XD | Illustrator | Figma | Invision | Balsamiq
