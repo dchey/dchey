@@ -14,7 +14,7 @@ My Primary areas of interested are:
 ### 🛠 Stacks & Programming Languages 🛠
 #### Programming Languages
 - Proficient in... Python | Golang | Java | C | HTML | CSS | JavaScript | MATLAB | Latex
-- Familiar with... Solidity | Flutter
+- Familiar with... TypeScript | Solidity | Flutter
 
 #### Technology
 - Backend... Flask | django | REST API
