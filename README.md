@@ -7,8 +7,8 @@
 ---
 ### 🌱 My Interests 🌱
 My Primary areas of interested are:
+- Data Science + Analysis + Engineering
 - Backend Engineering
-- Data Science
 - Image/Language/Video Processing
 ---
 ### 🛠 Stacks & Programming Languages 🛠
@@ -18,7 +18,7 @@ My Primary areas of interested are:
 
 #### Technology
 - Backend... Flask | django | REST API
-- Databases... MySQL | NoSQL | SQLite | MongoDB
+- Databases... MySQL | NoSQL | SQLite | MongoDB | DataDog
 - AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | Keras | CLIP | GPT | NLTK
 - Data Science... pandas | bs4 | spark | seaborn
 - DevOps Tools... Git | Firebase | Heroku | Linux
