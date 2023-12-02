@@ -18,10 +18,9 @@ My Primary areas of interested are:
 
 #### Technology
 - Backend... Flask | django | REST API
-- Databases... MySQL | NoSQL | SQLite | MongoDB | DataDog
+- Cloud/Databases... MySQL | NoSQL | SQLite | MongoDB | DataDog | AWS | GCP
 - AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | Keras | CLIP | GPT | NLTK
 - Data Science... pandas | bs4 | spark | seaborn
 - DevOps Tools... Git | Firebase | Heroku | Linux
-- Cloud...  AWS | GCP
 - Frontend... React.js | Bootstrap
 - Design... XD | Illustrator | Figma | Invision | Balsamiq
