@@ -17,10 +17,11 @@ My Primary areas of interested are:
 - Familiar with... TypeScript | Solidity | Flutter
 
 #### Technology
-- Backend... Flask | django | REST API
-- Cloud/Databases... MySQL | NoSQL | SQLite | MongoDB | DataDog | AWS | GCP
-- AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | Keras | CLIP | GPT | NLTK
-- Data Science... pandas | bs4 | spark | seaborn
+- Backend... Flask | django | REST | Postman
+- Cloud/Databases... NoSQL | MySQL | SQLite | MongoDB | Snowflake | DataDog | AWS | GCP
+- AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | CLIP | GPT | NLTK | BERT
+- Data Science... Pandas | Bs4 | Spark | Seaborn | Tableau
 - DevOps Tools... Git | Firebase | Heroku | Linux
 - Frontend... React.js | Bootstrap
 - Design... XD | Illustrator | Figma | Invision | Balsamiq
+- Office tools... Zoom | Slack |  Notion | Discord | Jira | Jandi | Gathertown
