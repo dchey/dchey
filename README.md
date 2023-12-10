@@ -7,9 +7,9 @@
 ---
 ### 🌱 My Interests 🌱
 My Primary areas of interested are:
-- Data Science + Analysis + Engineering
+- Data Science and Engineering
 - Backend Engineering
-- Image/Language/Video Processing
+- Machine Learning
 ---
 ### 🛠 Stacks & Programming Languages 🛠
 #### Programming Languages
@@ -17,11 +17,8 @@ My Primary areas of interested are:
 - Familiar with... TypeScript | Solidity | Flutter
 
 #### Technology
-- Backend... Flask | django | REST | Postman
-- Cloud/Databases... NoSQL | MySQL | SQLite | MongoDB | Snowflake | DataDog | AWS | GCP
+- Cloud/Databases... NoSQL | MySQL | SQLite | MongoDB | Snowflake | DataDog | AWS | GCP | Firebase | Heroku | Netlify | Mixpanel
 - AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | CLIP | GPT | NLTK | BERT
-- Data Science... Pandas | Bs4 | Spark | Seaborn | Tableau
-- DevOps Tools... Git | Firebase | Heroku | Linux
-- Frontend... React.js | Bootstrap
+- Data Science... Pandas | Matplotlib | Bs4 | Spark | Seaborn | Tableau
+- Web Development... Node.js | React.js | Flask | django | Bootstrap | REST | Postman | Git | Linux
 - Design... XD | Illustrator | Figma | Invision | Balsamiq
-- Office tools... Zoom | Slack |  Notion | Discord | Jira | Jandi | Gathertown
