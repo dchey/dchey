@@ -17,7 +17,7 @@ My Primary areas of interested are:
 - Familiar with... TypeScript | Solidity | Flutter
 
 #### Technology
-- Cloud/Databases... NoSQL | MySQL | SQLite | MongoDB | Snowflake | DataDog | AWS | GCP | Firebase | Heroku | Netlify | Mixpanel
+- Cloud/Databases... MySQL | SQLite | MongoDB | Snowflake | DataDog | AWS | GCP | Firebase | Heroku | Netlify | Mixpanel
 - AI/ML... TensorFlow | Pytorch | Keras | scikit-learn | CLIP | GPT | NLTK | BERT
 - Data Science... Pandas | Matplotlib | Bs4 | Spark | Seaborn | Tableau
 - Web Development... Node.js | React.js | Flask | django | Bootstrap | REST | Postman | Git | Linux
